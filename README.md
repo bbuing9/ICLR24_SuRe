@@ -1,6 +1,6 @@
 # SuRe: Summarizing Retrievals using Answer Candidates for Open-domain QA of LLMs
 
-This repository provides datasets, and code for the following paper (will be released soon!):
+This repository provides datasets, and code for the following paper:
 
 > [SuRe: Summarizing Retrievals using Answer Candidates for Open-domain QA of LLMs](https://arxiv.org/abs/2404.13081) <br>
 > [Jaehyung Kim](https://sites.google.com/view/jaehyungkim), Jaehyun Nam, Sangwoo Mo, Jongjin Park, Sang-Woo Lee, Minjoon Seo, Jung-Woo Ha, Jinwoo Shin <br>
